@@ -1,7 +1,7 @@
 //prime number or not
 import java.io.*;
 import java.util.*;
-public class DemoPrime
+public class DemoPrimeV2
 {
     public static void main(String args[])
     {
