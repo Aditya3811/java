@@ -9,8 +9,8 @@ public class Addition
         int x = sc.nextInt();
         System.out.println("enter second integer");
         int y = sc.nextInt();
-        int z = x-y;
-        System.out.println(x+"-"+y+"="+z);
+        int z = x+y;
+        System.out.println(x+"+"+y+"="+z);
         
     }
 }
