@@ -1,4 +1,4 @@
-public class DemoPrime
+public class DemoPrimeV1
 {
     public static void main(String args[])
     {
