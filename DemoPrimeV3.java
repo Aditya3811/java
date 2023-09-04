@@ -1,5 +1,5 @@
 //prime number or not
-public class DemoPrime
+public class DemoPrimeV3
 {
     public static void main(String args[])
     {
