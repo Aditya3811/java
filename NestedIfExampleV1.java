@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-  public class NestedIfExample extends Object
+  public class NestedIfExampleV1 extends Object
 {
     public static void main(String args[])
     {
