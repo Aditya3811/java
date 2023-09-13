@@ -3,7 +3,6 @@
 //13.09.2023
 //AbstractDemo
 import java.io.*;
-import java.util.*;
  abstract class Animal 
 {
     public abstract void AnimalSound();
