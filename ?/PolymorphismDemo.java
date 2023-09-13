@@ -1,4 +1,4 @@
-//java program to demonistrate polymorphism
+//java program to demonistrate polymorphism Demo
 //12-09-2023
 //aditya
 //PolymorphismDemo
