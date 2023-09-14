@@ -1,4 +1,4 @@
-//java to demonistrate this constructer demo
+//java to demonistrate this demo
 //14.09.2023
 //aditya
 //ThisDemo2
